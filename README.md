@@ -30,7 +30,7 @@
   - Built for Islamic deposit approvals
 - 👉 Developed **both frontend (Angular)** and **backend (Spring Boot)** for approval systems
 
-#### 🏦 Islami Bank (2.7 years)
+#### 🏦 Islami Bank Bangladesh PLC (2.7 years)
 - 🔹 Built **connect2bank** (Corporate iBanking system)
   - Full-stack development using **Java**, **Spring Boot**, **Thymeleaf**, **Bootstrap**
   - Supported fund transfers: single, batch file, EFT, RTGS
