@@ -32,8 +32,14 @@
 
 #### 🏦 Islami Bank (2.7 years)
 - 🔹 Built **connect2bank** (Corporate iBanking system)
+  - Full-stack development using **Java**, **Spring Boot**, **Thymeleaf**, **Bootstrap**
   - Supported fund transfers: single, batch file, EFT, RTGS
-  - Designed role-based access control and enterprise-level reporting
+  - Implemented role-based access control and enterprise-level reporting
+- 🔹 Worked on **LAMS** (Legal Affairs Management System)
+  - Enhanced and maintained report generation using **JasperReports**
+- 🔹 Contributed to **CIB System**
+  - Migrated legacy frontend from **Java 8 Struts** to modern **Java 21 Spring Boot**
+  - Developed the new frontend UI for the updated architecture
 
 ---
 
